@@ -82,6 +82,3 @@ npm run lint:fix
 
 This command runs both TypeScript and Solidity linters in the project and automatically fix any issues it finds.
 
-## Contribution
-
-We welcome contributions to this repository. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
